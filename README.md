@@ -1,6 +1,5 @@
 # ps-spring-boot-resources
-This repository contains resources to help developers build Spring Boot applications.  These resources are specifically designed to be used with the "Creating your First Spring Boot Application" on Pluralsight.com 
-
+This repository contains resources to help developers build Spring Boot applications.  T
 ## Resources
 This project contains 2 resource types.  An angular web client and some server side Java resources.
 
